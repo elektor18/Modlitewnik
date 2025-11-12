@@ -1,0 +1,6 @@
+Title: Our Father
+Category: Morning
+Text-en: Our Father, who art in heaven, hallowed be thy name; thy kingdom come; thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.
+Text-pl: Ojcze nasz, któryś jest w niebie, święć się imię Twoje; przyjdź królestwo Twoje; bądź wola Twoja jako w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj; i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; i nie wódź nas na pokuszenie, ale nas zbaw ode złego. Amen.
+Text-fr: Notre Père, qui es aux cieux, que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain de ce jour; pardonne-nous nos offenses, comme nous pardonnons aussi à ceux qui nous ont offensés; et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen.
+Text-de: Vater unser im Himmel, geheiligt werde dein Name; dein Reich komme; dein Wille geschehe, wie im Himmel, so auf Erden. Unser tägliches Brot gib uns heute; und vergib uns unsere Schuld, wie auch wir vergeben unseren Schuldigern; und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Amen.
