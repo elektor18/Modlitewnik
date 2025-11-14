@@ -1,5 +1,5 @@
 Title: The Angelus
-Title-pl: Anioł Pański :)
+Title-pl: Anioł Pański
 Title-la: Angelus Domini
 Category: Traditional Prayers
 Text-en: THE ANGELUS
@@ -68,4 +68,5 @@ R. Ut digni efficiamur promissionibus Christi.
 
 OREMUS
 Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem, ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum. Amen.
+
 
